@@ -4,6 +4,6 @@ tinymce.addI18n('lv',{
 "Edit": "Labot",
 "Preview": "Priekšskatījums",
 "View": "Skatit",
-"Format": "Formatēt"
+"Format": "Formatēt",
 "Tools": "Rīki",
 });
